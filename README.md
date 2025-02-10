@@ -58,9 +58,8 @@ A **Arquitetura da Experiência do Usuário (UX)** envolve princípios que garan
 ---
 
 ## 🔗 **Link para o Projeto no Figma**
-Acesse o **Wireframe de Média Fidelidade** criado no Figma [aqui](https://www.figma.com/design/mGuyAGedXjR2XtDSrK8unc/Wireframe_media-Fidelidade?node-id=0-1&t=DjxjfpVJnXDB3ma5-1).
+Acesse o **Wireframe de Média Fidelidade** criado no Figma [Figma](https://www.figma.com/design/mGuyAGedXjR2XtDSrK8unc/Wireframe_media-Fidelidade?node-id=0-1&t=DjxjfpVJnXDB3ma5-1).
 
 ---
 
-## 🎉 **Boa sorte no desafio!**
 💡 **"O design não é apenas como algo parece, mas como funciona" – Steve Jobs.**
