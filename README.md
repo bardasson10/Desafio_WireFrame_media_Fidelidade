@@ -60,7 +60,7 @@ A **Arquitetura da Experiência do Usuário (UX)** envolve princípios que garan
 ## 🔗 **Acesse o Projeto no Figma**  
 Clique na logo abaixo para acessar o **Wireframe de Média Fidelidade** no Figma:
 
-[![Figma](https://upload.wikimedia.org/wikipedia/commons/a/a5/Figma-logo.svg)](https://www.figma.com/design/mGuyAGedXjR2XtDSrK8unc/Wireframe_media-Fidelidade?node-id=0-1&t=DjxjfpVJnXDB3ma5-1)
+[![logo Figma](https://img.shields.io/badge/Figma?style=for-the-badge&logo=kofi&logoColor=white)](#)
 
 ---
 
